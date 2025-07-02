@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# sementara/unduhan
+tmp_downloads/
+*.mp3
+
+# binari besar
+ffmpeg/
+heroku-*.exe
+*.exe
+*.bat
