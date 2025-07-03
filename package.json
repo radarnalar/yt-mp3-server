@@ -10,6 +10,7 @@
     "cors": "^2.8.5",
     "fluent-ffmpeg": "^2.1.3",
     "ytdl-core": "^4.11.5",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "yt-dlp-static": "^1.0.6"
   }
 }
